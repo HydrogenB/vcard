@@ -1,13 +1,9 @@
 /*!
- * Cropper.js v1.5.11
- * https://fengyuanchen.github.io/cropperjs
+ * The buffer module from node.js, for the browser.
  *
- * Copyright 2015-present Chen Fengyuan
- * Released under the MIT license
- *
- * Date: 2021-02-17T11:53:27.572Z
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
  */
-
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
@@ -27,6 +23,8 @@ PERFORMANCE OF THIS SOFTWARE.
 /*! @azure/msal-browser v2.16.1 2021-08-02 */
 
 /*! @azure/msal-common v4.5.1 2021-08-02 */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /**
  * @licstart The following is the entire license notice for the
@@ -48,6 +46,13 @@ PERFORMANCE OF THIS SOFTWARE.
  *
  * @licend The above is the entire license notice for the
  * Javascript code in this page
+ */
+
+/**!
+ * Sortable 1.10.2
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @author	owenm    <owen23355@gmail.com>
+ * @license MIT
  */
 
 
@@ -70,19 +75,26 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
+ * Released under the MIT License.
  */
 
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-/**!
- * Sortable 1.10.2
- * @author	RubaXa   <trash@rubaxa.org>
- * @author	owenm    <owen23355@gmail.com>
- * @license MIT
+/*!
+ * Cropper.js v1.5.11
+ * https://fengyuanchen.github.io/cropperjs
+ *
+ * Copyright 2015-present Chen Fengyuan
+ * Released under the MIT license
+ *
+ * Date: 2021-02-17T11:53:27.572Z
  */
 
 
@@ -109,14 +121,9 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 
-/*!
-  * vue-router v3.5.1
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
- * Released under the MIT License.
+/**!
+ * Sortable 1.10.2
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @author	owenm    <owen23355@gmail.com>
+ * @license MIT
  */

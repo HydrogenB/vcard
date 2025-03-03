@@ -98,6 +98,7 @@ header {
   box-sizing: border-box;
   padding-bottom: 0;
 }
+
 #logo {
   max-height: 6rem;
   text-align: center;
@@ -167,7 +168,6 @@ main {
   user-select: none;
   margin-top: -6rem;
   /* z-index: 9999; */
-  
 }
 #info {
   display: -webkit-box;
@@ -326,6 +326,7 @@ a {
 .embedded {
   position: relative;
   padding-top: 56.25%;
+
 }
 .embedded iframe {
   position: absolute;
@@ -446,6 +447,7 @@ footer a {
   text-decoration: underline;
   color: inherit;
 }
+
 
 
 header {
