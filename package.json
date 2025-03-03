@@ -17,7 +17,6 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/robots": "^2.4.2",
     "@vercel/speed-insights": "^1.2.0",
-    "@vue-stripe/vue-stripe": "^4.2.5",
     "axios": "^0.21.1",
     "cropperjs": "^1.5.11",
     "facebook-login-vuejs": "^2.1.3",
